@@ -56,7 +56,7 @@
 ## Ruby / Rails
 * Same as SE I
 
-# Sr. Software Engineer II
+# Sr. Software Engineer I
 ## Programming Language Knowledge
 * Familiar with more than one  programming language
 
