@@ -1,5 +1,5 @@
 # What Is this?
-[Enova](http://www.enova.com) has decided to open source it's career ladders. You can find background on why we created new ladders [here](https://www.enova.com/blog/open-sourcing-engineering-ladders/) and why we open sourced them [here]().
+[Enova](http://www.enova.com) has decided to open source it's career ladders. You can find background on why we created new ladders [here](http://www.builtinchicago.org/node/126918) and why we open sourced them [here](https://www.enova.com/blog/open-sourcing-engineering-ladders/).
 
 # What's inside?
 There's 6 ladders contained:
@@ -14,7 +14,7 @@ After you become a Lead Engineer, you can select to either go into the Individua
 * mangement - Manager Ladder
 
 # Structure
-Each position is meant the build on the position before it. So a Sr. Software Engineer II is expected to fulfill everything found in the Software Engineer I, II and Sr. Software Engineer I descriptions.
+Each position is meant to build on the position before it. So a Sr. Software Engineer II is expected to fulfill everything found in the Software Engineer I, II and Sr. Software Engineer I descriptions.
 
 The ladders also progress in terms of what each position impacts: starting with a project, moving to your team, core, SE, tech and, finally, to the company.
 
@@ -26,7 +26,7 @@ Within the ladders there's some Enova specific terminology:
 * Architecture Council - Large, cross functional team made up of members of SE, IT, Analytics, Data Services and TechOps that help organize company wide projects and initiatives.
 
 # Why Ugly Markdown?
-Markdown doesn't represent tables / matrices well. GFM only supports single line table cells, so they wouldn't work here. If you have some suggestions, please, open up an issue or, better yet, submit a PR.
+Markdown doesn't represent tables / matrices well. GFM only supports single line table cells, so they wouldn't work here. If you have some suggestions, please, open up an issue, or better yet, submit a PR.
 
 # Feedback
 Feedback is welcome. Feel free to ping [Griffin Caprio](http://www.twitter.com/gcaprio) with questions or comments.
