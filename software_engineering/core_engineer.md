@@ -32,7 +32,7 @@
 * Able to understand existing code base.
 * Understands how the organization is structured and how the current technology supports and affects the business.
 
-## Core & Ranger Tours
+## Engineer Exchange
 * N/A
 
 # Software Engineer II
@@ -55,9 +55,9 @@
 * Makes recommendations around possible improvements to the code base.
 * Understand the organization’s products and services, and basic business processes.
 
-## Core & Ranger Tours
-* Member of a Ranger squad across at least four EPG’s
-* Member of a Core Team across at least four EPG’s
+## Engineer Exchange
+* Participation in 1 engineer exchange for at least 6 weeks with another Core or Ranger team*
+* Individual Managers arrange engineer exchanges. Submit to for approval.
 
 # Sr. Software Engineer I
 ## People Mangement
@@ -85,12 +85,13 @@
 * Understands and recommends future changes at a product level.
 * Articulates how their work fits into the Enova platform as a whole.
 
-## Core & Ranger Tours
-* Combined with SE II
+## Engineer Exchange 
+* N/A 
 
 # Sr. Software Engineer II
 ## People Mangement
 * Can operate as a leader for a single project
+
 ## Communication
 * Same as Sr. SE I
 
@@ -107,12 +108,13 @@
 ## Subject Matter Expert
 * Leads & recommends direction for project/product.
 
-## Core & Ranger Tours
-* Combined with Sr SE I
+## Engineer Exchange
+* Participation in 1 engineer exchange for at least 6 weeks with another Core or Ranger team*
+* Individual Managers arrange engineer exchanges. Submit to for approval.
 
 # Lead Software Engineer
 ## People Mangement
-* Leads a Ranger squad
+* Leads a Ranger squad or Mini-Squad (4 person team within a Core team. Think Squidbillies on UK).
 
 ## Communication
 * Interacting with PM & stakeholders, understanding business problems and requirements and articulating solutions.
@@ -135,5 +137,5 @@
 ## Subject Matter Expert
 * Architects and recommends direction at a Core level and understands the impact at an SE level.
 
-## Core & Ranger Tours
-* Leads a Ranger Team through at least 3 EPG’s across more than 1 Core
+## Engineer Exchange 
+* N/A

@@ -30,7 +30,7 @@
 * Participate in vendor negotiations by contributing capacity planning, expected growth, usage projections and assessing technology.
 * Understands limitations of Ruby and Rails stack and looks for complementary products to fill architectural gaps.
 
-## Core & Ranger Tours
+## Engineer Exchange
 * N/A
 
 ## Thought Leadership
@@ -64,7 +64,7 @@
 * Provide RFP responses related to technology that Executives can count upon.
 * Builds roadmaps to upgrade the Ruby and Rails stack and production enable complementary products in the Enova Technology ecosystem.
 
-## Core & Ranger Tours
+## Engineer Exchange 
 * N/A
 
 ## Thought Leadership
